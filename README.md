@@ -1,0 +1,2 @@
+# mySelf
+sudo whoami
