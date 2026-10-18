@@ -1,2 +1,2 @@
 # mySelf
-sudo whoami
+## >_whoami
